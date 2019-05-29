@@ -3,7 +3,7 @@ Name: Thales de Oliveira Goncalves
 USP Number: 11383541
 Course Code: SCC5830
 Year/Semester: 2019/1
-Final Project
+Final Project - Detecting Malaria Desease in Cell Images
 '''
 
 import os
